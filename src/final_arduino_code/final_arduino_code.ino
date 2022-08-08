@@ -15,14 +15,21 @@ bool accidentStatus = false;
 
 void setup() {
   Serial.begin(9600);                    // Initiate serial communication for printing the results on the Serial monitor
+//  Serial.println("setup");
   Wire.begin();                          // Initiate the Wire library
+//  Serial.println("setup");
   // Set ADXL345 in measuring mode
   Wire.beginTransmission(ADXL345);       // Start communicating with the device
+//  Serial.println("setup");
   Wire.write(0x2D);                      // Access/ talk to POWER_CTL Register - 0x2D
+//  Serial.println("setup");
   // Enable measurement
   Wire.write(8);                         // (8dec -> 0000 1000 binary) Bit D3 High for measuring enable
+//  Serial.println("setup");
   Wire.endTransmission();
+//  Serial.println("setup");
   delay(10);
+//  Serial.println("setup");
 
   if (!driver.init())                    //Check RF Module
     Serial.println("init failed");
@@ -30,7 +37,9 @@ void setup() {
 
   //need to run this code only once when arduino is powered
   float fsr = force();
+  Serial.println(fsr);
   float alc = alcohol();
+  Serial.println(alc);
   if (fsr > 25) {
     starttime = millis();
     endtime = starttime;
@@ -70,6 +79,7 @@ void loop() {
   else {
     turnoffBike();
   }
+  
 }
 
 float acceleration() {
@@ -83,23 +93,29 @@ float acceleration() {
   ay = ay / 256;
   float az = ( Wire.read() | Wire.read() << 8); // Z-axis value
   az = az / 256;
-  float acceleration = sqrt(ax * ax + ay * ay + az * az);
-  return acceleration;
+  float acceleratio = sqrt(ax * ax + ay * ay + az * az);
+  Serial.println(acceleratio);
+  return acceleratio;
 }
 
 
 int force() {
   int fsrReading = analogRead(fsrPin);
+  Serial.println(fsrReading);
   return fsrReading;
 }
 
 float vibration() {
   float vibrReading = analogRead(vibrPin);
+  Serial.print("vib");
+  Serial.println(vibrReading);
   return vibrReading;
 }
 
 float alcohol() {
   float alcReading = analogRead(alcPin);
+  Serial.print("alc");
+  Serial.println(alcReading);
   return alcReading;
 }
 

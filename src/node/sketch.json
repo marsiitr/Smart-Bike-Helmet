@@ -1,0 +1,22 @@
+{
+  "cpu": {
+    "fqbn": "",
+    "name": "",
+    "type": "serial"
+  },
+  "secrets": [
+    {
+      "name": "SECRET_SSID",
+      "value": ""
+    },
+    {
+      "name": "SECRET_PASS",
+      "value": ""
+    },
+    {
+      "name": "SECRET_DEVICE_KEY",
+      "value": ""
+    }
+  ],
+  "included_libs": []
+}
