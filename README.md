@@ -31,7 +31,7 @@ The main body is a basic helmet to which various sensors are attached that gives
 The ADXL345 is a low-power, 3-axis MEMS accelerometer modules with both I2C and SPI interfaces.The sensor consists of a micro-machined structure on a silicon wafer. The structure is suspended by polysilicon springs which allow it to deflect smoothly in any direction when subject to acceleration in the X, Y and/or Z axis. Deflection causes a change in capacitance between fixed plates and plates attached to the suspended structure. This change in capacitance on each axis is converted to an output voltage proportional to the acceleration on that axis.
 
 <p align="center">
-<img src="./images and videos/images/acc.PNG" alt="acc">
+<img src="https://github.com/Bhawna-Rana/Smart-Bike-Helmet/blob/main/images and videos/images/acc.PNG" alt="acc">
 </p>
 
 <h3> Vibration Module SW-420 </h3>
