@@ -42,7 +42,7 @@ The vibration sensor module based on the vibration sensor SW-420 and Comparator 
 <br>
 
 <p align="center">
-<img src="./images and videos/images/vm.PNG">
+<img src="https://github.com/Bhawna-Rana/Smart-Bike-Helmet/blob/main/images and videos/images/vm.PNG">
 </p>
 
 <h3> RF Module </h3>
@@ -50,14 +50,14 @@ The vibration sensor module based on the vibration sensor SW-420 and Comparator 
 Generally, an RF module is a small size electronic device, that is used to transmit or receive radio signals between two devices. The main application of the RF module is an embedded system to communicate with another device wirelessly.
 <br>
 <p align="center">
-<img src="./images and videos/images/rf.PNG">
+    <img src="https://github.com/Bhawna-Rana/Smart-Bike-Helmet/blob/main/images and videos/images/rf.PNG">
 </p>
 <h3> MQ-3 Alcohol Sensor </h3>
 
 The MQ-3 is Alcohol Sensitive Sensor that is often used in a breath analyzer.An alcohol sensor detects the attentiveness of alcohol gas in the air and an analog voltage is an output reading.
 <br>
 <p align="center">
-<img src="./images and videos/images/as.PNG">
+    <img src="https://github.com/Bhawna-Rana/Smart-Bike-Helmet/blob/main/images and videos/images/as.PNG">
 </p>
 
 <h3> Force sensitive Resistor </h3>
@@ -65,7 +65,7 @@ The MQ-3 is Alcohol Sensitive Sensor that is often used in a breath analyzer.An 
 A force-sensing resistor is a material whose resistance changes when a force, pressure or mechanical stress is applied. It is utilised to know whether the helmet is being worn or not.
 <br>
 <p align="center">
-<img src="./images and videos/images/fsr.PNG">
+    <img src="https://github.com/Bhawna-Rana/Smart-Bike-Helmet/blob/main/images and videos/images/fsr.PNG">
 </p>
 <h3> GPS Module </h3>
 
@@ -73,7 +73,7 @@ The GPS receiver measures the distance to each satellite by the amount of time i
 <br>
 
 <p align="center">
-<img src="./images and videos/images/gps.PNG">
+    <img src="https://github.com/Bhawna-Rana/Smart-Bike-Helmet/blob/main/images and videos/images/gps.PNG">
 </p>
 
 <h2> The microcontrollers used are: </h2>
@@ -85,7 +85,7 @@ Arduino is a micro-controller. This small computer is used as the brain of the r
 </p>
 
 <p align="center">
-<img src="./images and videos/images/arduino.PNG">
+    <img src="https://github.com/Bhawna-Rana/Smart-Bike-Helmet/blob/main/images and videos/images/arduino.PNG">
 </p>
 
 <h3> NodeMCU </h3>
@@ -93,7 +93,7 @@ Arduino is a micro-controller. This small computer is used as the brain of the r
 The NodeMCU is a development board featuring the popular ESP8266 WiFi chip. It can readily connect to the Internet via WiFi. Its high processing power with in-built Wi-Fi / Bluetooth and Deep Sleep Operating features make it ideal for IoT projects.
 
 <p align="center">
-<img src="./images and videos/images/node.PNG">
+    <img src="https://github.com/Bhawna-Rana/Smart-Bike-Helmet/blob/main/images and videos/images/node.PNG">
 </p>
 </p>
 
@@ -107,7 +107,7 @@ Iot architecture for our project is
 <br>
 
 <p align="center">
-<img src="./images and videos/images/iotarchi.PNG" >
+<img src="https://github.com/Bhawna-Rana/Smart-Bike-Helmet/blob/main/images and videos/images/iotarchi.PNG">
 </p>
 
 <br>
@@ -115,7 +115,7 @@ Iot architecture for our project is
 <br>
 
 <p align="center">
-<img src="./images and videos/images/dataflow.PNG">
+<img src="https://github.com/Bhawna-Rana/Smart-Bike-Helmet/blob/main/images and videos/images/dataflow.PNG">
 </p>
 
 <p>
