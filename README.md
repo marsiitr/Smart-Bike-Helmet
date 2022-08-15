@@ -13,7 +13,7 @@ Smart Bike Helmet is a protective headgear that provides enhanced protection to 
 <h2> Motivation </h2>
 
 <p>
-Our inspiration was to learn the basics of IoT, Arduino, to work with sensors and to familiarize ourselves with the various platforms that are used for IoT through this project.
+Our inspiration was to learn basics of IoT, Arduino, to work with sensors and to familiarize ourselves with the various platforms that are used for IoT through this project.
 <br>
 The aim of this project is to ensure safety of the rider and prevent deaths and injuries caused by road accidents. If such a product is used on a large scale then the number of road accident related deaths and cases would be reduced. It is because it would be compulsory to wear the helmet and not be drunk in order to ride the bike. Also in case an accident occurs, the family gets notified about it along with the current location of the driver. Through this we want to solve two issues : reducing the number of road accidents by reducing drink and drive cases and provision of timely treatment that could otherwise prove to be fatal.
 </p>
