@@ -218,7 +218,7 @@ Through this project we could learn the following :<br>
  1. [Bhawna Rana](https://github.com/Bhawna-Rana)<br>
  2. [Rose Jethani](https://github.com/rose2221)
  3. [Sarish Nilakhe](https://github.com/Shinchan9913)<br>
- 4. [Shiva Rama Raju](https://github.com/MSRRaju07)<br>
+ 4. [Manepalli Shiva Rama Raju](https://github.com/MSRRaju07)<br>
  
    </p>
 <br>
