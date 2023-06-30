@@ -5,7 +5,7 @@
 <h2> Abstract </h2>
 
 <p>
-Smart Bike Helmet is a protective headgear that provides enhanced protection to the rider with advanced features such as alcohol detection, accident detection, and live location tracking. It protects the rider by not allowing the bike’s ignition to turn ON if he/she is drunk or not wearing the helmet. This is done using an RF module. Its main purpose is to detect possible accidents and notify the rider's family about the same with the current location so that help could be provided timely.
+Smart Bike Helmet is the protective headgear that provides enhanced protection to the rider with advanced features such as alcohol detection, accident detection, and live location tracking. It protects the rider by not allowing the bike’s ignition to turn ON if he/she is drunk or not wearing the helmet. This is done using an RF module. Its main purpose is to detect possible accidents and notify the rider's family about the same with the current location so that help could be provided timely.
 </p>
 
 <p align="justify">
